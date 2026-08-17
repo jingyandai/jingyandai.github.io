@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Information Systems and Operations Management at the Warrington College of Business, University of Florida, advised by [Dr. Liangfei Qiu](https://site.warrington.ufl.edu/liangfei-qiu/) and Dr. Shu He. I am on the 2026–2027 academic job market and expect to graduate in 2027.
+I am a Ph.D. candidate in Information Systems and Operations Management at the Warrington College of Business, University of Florida, advised by Dr. Liangfei Qiu and Dr. Shu He. I am on the 2026–2027 academic job market and expect to graduate in 2027.
 
 My research examines **behavior and governance on digital platforms** and the **economics of AI and emerging technologies**. I study the central actors of the digital economy—users who contribute content, creators who build audiences, developers who supply applications, and organizations that adopt new technologies—using causal econometrics, machine learning and natural language processing, and online experiments on large-scale data that I collect myself.
 
