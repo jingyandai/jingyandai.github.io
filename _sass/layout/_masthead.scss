@@ -66,6 +66,16 @@
   }
 }
 
+/* Site title in the masthead: same look as the nav links, but not clickable */
+.masthead__menu-item--lg .site-title {
+  display: block;
+  margin: 0 1rem;
+  padding: 0.5rem 0;
+  color: var(--global-masthead-link-color);
+  text-decoration: none;
+  cursor: default;
+}
+
 .masthead__menu-item.selected a {
   color: var(--global-text-color);
   font-weight: 700;
