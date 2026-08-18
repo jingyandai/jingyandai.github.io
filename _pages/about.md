@@ -9,9 +9,7 @@ redirect_from:
 
 Hi, Nice to meet you! I am a Ph.D. candidate in Information Systems and Operations Management at the Warrington College of Business, University of Florida, advised by Dr. Liangfei Qiu and Dr. Shu He. I am on the 2026–2027 academic job market.
 
-My research examines **behavior and governance on digital platforms** and the **economics of AI and emerging technologies**. I study the central actors of the digital economy—users who contribute content, creators who build audiences, developers who supply applications, and organizations that adopt new technologies. I use causal econometrics, machine learning and natural language processing, and online experiments with large-scale data.
-
-My job market paper, *"Official Entry into Online Communities: How Police Presence Shapes Voluntary Contributions"* studies how the arrival of official authorities reshapes what community members are willing to share online. My other projects examine content creator multihoming and cross-platform attention spillovers, centralization and sentiment dampening in LLM-generated product review summaries, platform governance in mobile app stores, and the operational value of electronic health records.
+My research examines **behavior and governance on digital platforms** and the **economics of AI and emerging technologies**. I study the central actors of the digital economy, users who contribute content, creators who build audiences, developers who supply applications, and organizations that adopt new technologies. I use causal econometrics, machine learning, and online experiments with large-scale data.
 
 Before my doctoral studies, I earned a master's degree in Information Systems Management from Carnegie Mellon University and a bachelor's degree in economics from Shanghai University of Finance and Economics, and I worked for a year as a full-time data scientist at Tencent Music Entertainment.
 
