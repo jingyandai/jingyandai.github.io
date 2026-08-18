@@ -20,7 +20,7 @@ Education
 Research Interests
 ======
 * **Topics:** digital platforms, artificial intelligence, digital technology, social media
-* **Methods:** applied econometrics, causal inference, machine learning and NLP, experimental design
+* **Methods:** applied econometrics, causal inference, machine learning, experimental design
 
 Working Papers
 ======
