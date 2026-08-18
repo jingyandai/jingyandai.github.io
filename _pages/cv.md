@@ -13,8 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Business Administration — Information Systems and Operations Management, University of Florida, expected 2027
-  * Committee: Liangfei Qiu (Chair), Shu He (Co-Chair), Emre Demirezen
+* Ph.D. in Business Administration - Information Systems and Operations Management, University of Florida, expected 2027
 * M.S. in Information Systems Management — Business Intelligence and Data Analytics, Carnegie Mellon University, 2020
 * B.A. in Economics — Mathematical Economics, Shanghai University of Finance and Economics, 2019
 
@@ -49,7 +48,7 @@ Selected Presentations
 Teaching
 ======
 **Instructor of Record**, University of Florida
-* QMB 4702, Managerial Operations Analysis 2 — required senior-level undergraduate core course, 52 students, Fall 2025. Responsible for the course end to end: learning objectives, lecture slides, in-class Excel demonstrations, homework, quizzes, exams, and the Canvas site. The course covers decision analysis under uncertainty, utility theory and risk attitudes, queuing models, and project planning with CPM and PERT.
+* QMB 4702, Managerial Operations Analysis 2 (Fall 2025)
 
 **Teaching Assistant**, University of Florida
 * ISM 6236, Business Objects I (Spring 2025)
