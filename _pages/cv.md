@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Business Administration - Information Systems and Operations Management, University of Florida, expected 2027
-* M.S. in Information Systems Management — Business Intelligence and Data Analytics, Carnegie Mellon University, 2020
-* B.A. in Economics — Mathematical Economics, Shanghai University of Finance and Economics, 2019
+* Ph.D. in Business Administration, University of Florida, expected 2027
+* M.S. in Information Systems Management, Carnegie Mellon University, 2020
+* B.A. in Economics, Shanghai University of Finance and Economics, 2019
 
 Research Interests
 ======
@@ -24,19 +24,14 @@ Research Interests
 
 Working Papers
 ======
-* "[Official Entry into Online Communities: How Police Presence Shapes Voluntary Contributions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003782)" (with Qili Wang, Shu He, and Liangfei Qiu). **Major Revision at *Information Systems Research***. INFORMS eBusiness Best Paper Runner-up Award. *Job market paper.*
-  * Police entry into a neighborhood safety platform reduces residents' voluntary contributions, and the decline is selective: it concentrates in safety posts about uncertain, harder-to-justify observations, while more verifiable crime posts are largely unaffected. A survey experiment shows perceived surveillance mediates the effect, and subsequent police engagement partially attenuates the chilling effect.
+* "[Official Entry into Online Communities: How Police Presence Shapes Voluntary Contributions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003782)" (with Qili Wang, Shu He, and Liangfei Qiu). **Major Revision at *Information Systems Research***. INFORMS eBusiness Best Paper Runner-up Award.
 * "[From Compliance to Value: Operational Efficiency and Patient Satisfaction in the Meaningful Use of Electronic Health Records](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135423)" (with Subodha Kumar, Liangfei Qiu, Arun Sen, and Atish P. Sinha). In preparation for submission.
-  * Using a panel of 1,384 U.S. hospitals and staggered difference-in-differences designs, we find that meaningful use of electronic health records improves emergency department efficiency and patient satisfaction, with gains that diminish in hospitals handling more complex caseloads.
 * "[Content Creator Multihoming and Attention Spillovers Across Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6602278)" (with Xinzhi Rao, Yulin Hao, and Liangfei Qiu). In preparation for submission.
-  * Using seven years of data on thousands of creators on Douyin and RedNote, we show that adopting a second platform increases followers and engagement on the focal platform, driven by audience expansion through cross-platform attention spillovers.
 
 Work in Progress
 ======
 * "Centralization and Sentiment Dampening in LLM-Generated Product Review Summaries" (with Xinzhi Rao, Kai Sun, and Anuj Kumar).
-  * LLM-generated review summaries pull ratings toward the midpoint of the scale and compress the strength of sentiment, and a survey experiment links these distortions to consumer purchase intentions.
 * "Platform Governance and the Supply of Complements: Evidence from Mobile App Stores" (with Qili Wang, Shu He, and Liangfei Qiu).
-  * Comparing more than 70,000 iOS apps against Android counterparts around Apple's App Store Improvements enforcement wave, we find that governance pressure prompted developers to update neglected apps while imposing collateral costs on perceived quality.
 
 Selected Presentations
 ======
@@ -47,7 +42,7 @@ Selected Presentations
 
 Teaching
 ======
-**Instructor of Record**, University of Florida
+**Instructor**, University of Florida
 * QMB 4702, Managerial Operations Analysis 2 (Fall 2025)
 
 **Teaching Assistant**, University of Florida
@@ -59,7 +54,7 @@ Teaching
 
 Industry Experience
 ======
-* Data Scientist, Tencent Music Entertainment, Shenzhen, China, 2021–2022
+* Data Scientist, Tencent Music Entertainment, 2021–2022
 
 Professional Service
 ======
