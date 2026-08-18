@@ -24,9 +24,9 @@ Research Interests
 
 Working Papers
 ======
-* "[Official Entry into Online Communities: How Police Presence Shapes Voluntary Contributions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003782)" (with Qili Wang, Shu He, and Liangfei Qiu). **Major Revision at *Information Systems Research***. INFORMS eBusiness Best Paper Runner-up Award.
-* "[From Compliance to Value: Operational Efficiency and Patient Satisfaction in the Meaningful Use of Electronic Health Records](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135423)" (with Subodha Kumar, Liangfei Qiu, Arun Sen, and Atish P. Sinha). In preparation for submission.
-* "[Content Creator Multihoming and Attention Spillovers Across Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6602278)" (with Xinzhi Rao, Yulin Hao, and Liangfei Qiu). In preparation for submission.
+* "[Official Entry into Online Communities: How Police Presence Shapes Voluntary Contributions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003782)" (**Jingyan Dai***, Qili Wang, Shu He, and Liangfei Qiu). **Major Revision at *Information Systems Research***. INFORMS eBusiness Best Paper Runner-up Award.
+* "[From Compliance to Value: Operational Efficiency and Patient Satisfaction in the Meaningful Use of Electronic Health Records](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135423)" (**Jingyan Dai***, Subodha Kumar, Liangfei Qiu, Arun Sen, and Atish P. Sinha). In preparation for submission.
+* "[Content Creator Multihoming and Attention Spillovers Across Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6602278)" (Xinzhi Rao, **Jingyan Dai***, Yulin Hao, and Liangfei Qiu). In preparation for submission.
 
 Work in Progress
 ======
