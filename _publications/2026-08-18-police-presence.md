@@ -4,7 +4,7 @@ collection: publications
 category: workingpapers
 permalink: /publication/police-presence
 excerpt: 'Job market paper. Major Revision at <i>Information Systems Research</i>. INFORMS eBusiness Best Paper Runner-up Award.'
-date: 2025-04-20
+date: 2026-08-18
 venue: 'Major Revision at Information Systems Research'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003782'
 citation: 'Jingyan Dai, Qili Wang, Shu He, and Liangfei Qiu. &quot;Official Entry into Online Communities: How Police Presence Shapes Voluntary Contributions.&quot; Major Revision at <i>Information Systems Research</i>.'
