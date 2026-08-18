@@ -17,4 +17,4 @@ Before my doctoral studies, I earned a master's degree in Information Systems Ma
 
 At the University of Florida, I have taught QMB 4702 (Managerial Operations Analysis 2), a required senior-level undergraduate core course, as instructor of record, and served as a teaching assistant for five graduate and MBA courses spanning managerial statistics, AI methods in business, data visualization, and information systems.
 
-You can find my [curriculum vitae here](/cv/), my research on the [Research page](/publications/), and reach me at [jingyandai@ufl.edu](mailto:jingyandai@ufl.edu).
+You can find my [curriculum vitae here](/cv/) and reach me at [jingyandai@ufl.edu](mailto:jingyandai@ufl.edu).
